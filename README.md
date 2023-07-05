@@ -61,7 +61,7 @@ float output = pnf.process(input);
 Contributions to expand this library are very welcome! We're looking forward to adding more filter types, as well as improving the existing filters.
 
 Please fork the repository and submit a pull request with your changes.
-
+please see  Contributing Guidelines
 ## License
 This project is licensed under the MIT License.
 
